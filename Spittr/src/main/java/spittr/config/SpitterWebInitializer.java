@@ -8,6 +8,7 @@ public class SpitterWebInitializer extends AbstractAnnotationConfigDispatcherSer
   int a;
   int b;
   int c;
+  int d;
   @Override
   protected Class<?>[] getRootConfigClasses() {
     return new Class<?>[] { RootConfig.class };
