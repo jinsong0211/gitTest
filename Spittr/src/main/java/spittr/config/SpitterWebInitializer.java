@@ -6,6 +6,8 @@ import spittr.web.WebConfig;
 
 public class SpitterWebInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
   int a;
+  int b;
+  int c;
   @Override
   protected Class<?>[] getRootConfigClasses() {
     return new Class<?>[] { RootConfig.class };
