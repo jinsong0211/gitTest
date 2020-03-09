@@ -1,0 +1,8 @@
+spittr\config\DataConfig.class
+spittr\config\RootConfig$WebPackage.class
+spittr\data\SpittleRepository.class
+spittr\config\SpitterWebInitializer.class
+spittr\Spittle.class
+spittr\config\RootConfig.class
+spittr\web\WebConfig.class
+spittr\web\HomeController.class
